@@ -16,3 +16,29 @@ These are the webs that I Use Everyday ??
     https://github.com/aboul3la/Sublist3r
     https://github.com/rbsec/dnscan
     https://github.com/Cleveridge/cleveridge-subdomain-scanner
+    
+ [Enumerate all subdomains](#enumerate-all-subdomains-only-if-the-scope-is-domainext)
+ * Subbrute
+ * KnockPy
+ * GoogleDorks
+ * EyeWitness
+ * Sublist3r
+ * Aquatone
+2. [Passive Recon](#passive-recon)
+ * Shodan
+ * Wayback Machine
+ * The Harvester
+3. [Active Recon](#active-recon)
+ * Nmap
+ * Nmap Script
+ * RPCClient
+ * Enum4all
+4. [List all the subdirectories and files](#list-all-the-subdirectories-and-files)
+ * Gobuster
+ * Backup File Artifacts Checker
+5. [Web Vulnerabilities](#looking-for-web-vulnerabilities)
+ * Repository Github
+ * Burp
+ * Web Checklist
+ * Nikto
+ * Payment functionality
