@@ -1,0 +1,26 @@
+1) various HTTP Methods 
+POST - customer informations to server 
+PUT - updation in server
+GET - retriving information from server to client
+DELETE - Deletion of files from server
+HEAD - retrives the status line and headersection
+CONNECT - making connection between client and server
+OPTIONS - displays the options available in server
+TRACE - echo back the request from server to client
+
+Mapping the application and attack surface
+1) Spidering
+
+2) Mapping application using robots.txt
+Which includes directories present in the site which bots are not allowed to crawled. sometimes senstives directories like databases, login page, usernames enumeration etc. ( for practicals use: cyberhitech.com)
+
+3) Discover hidden contents using Dirbuster
+
+4) Discover hidden directories and files with Intruder
+
+5) Identify application entry points
+
+6) Identify client and server technology 
+
+
+
